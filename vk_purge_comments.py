@@ -5,7 +5,7 @@ import json
 from time import sleep
 
 
-access_token = 'Token' #https://goo.gl/r0zGiF
+access_token = 'Your Token' #https://goo.gl/r0zGiF
 group_id = '-145607642' #айди группы с минусом -1234565
 v = 5.63
 
